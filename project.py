@@ -1,7 +1,6 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-import streamlit as st
 from datetime import datetime
 from dateutil.relativedelta import relativedelta
 from sklearn.preprocessing import MinMaxScaler
